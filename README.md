@@ -1,4 +1,4 @@
-# larva/laravel-umeng-notification-channel
+# larva/laravel-umeng-push
 
 适用于 Laravel 的友盟消息推送通道适配器
 
